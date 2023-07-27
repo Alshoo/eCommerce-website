@@ -1,0 +1,29 @@
+/* <!-- contact form --> */
+form input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;
+    border: 1px solid #60031a;
+    border-radius: 4px; 
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical ;
+    background: #ffffff00;
+    color: white;
+  }
+  #country *{
+    background: #000000a2;
+  
+  }
+  input[type=submit] {
+    border: none;
+    color: aliceblue;
+    font-weight: bold;
+    width: 179.19px;
+    height: 60px;
+    background: linear-gradient(180deg, #ef294e 0%, #60031a 100%);
+    border-radius:10px;
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
